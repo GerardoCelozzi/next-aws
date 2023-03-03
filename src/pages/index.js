@@ -127,7 +127,7 @@ export default function Home() {
             Distribution Directory Path: (build) --invio
             </li>
             <li>
-            Build Command:   (npm.cmd run-script build) ---cambiamo con <br/>
+            Build Command: (npm.cmd run-script build) ---cambiamo con <br/>
             <span style={{color:'green'}}> Build Command: npm run build</span>
             </li>
             <li>
